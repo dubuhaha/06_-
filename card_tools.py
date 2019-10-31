@@ -44,6 +44,19 @@ def show_all():
     print("-" * 50)
     print("显示全部名片")
 
+    # 打印表头
+    for name in ["姓名", "电话", "QQ", "邮箱"]:
+        print(name, end="\t")
+        print()
+
+    # 打印分隔线
+
+    # 遍历名片列表依次输出字典信息
+    for card_dict in card_list:
+
+        print(card_dict)
+
+
 
 def search_card():
 

@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3800815-a42f-474d-b4e2-a31c7673dee6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/card_main.py" beforeDir="false" afterPath="$PROJECT_DIR$/card_main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/card_tools.py" beforeDir="false" afterPath="$PROJECT_DIR$/card_tools.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,15 +12,16 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/06_cardManagement$card_tools.coverage" NAME="card_tools Coverage Results" MODIFIED="1572438131898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/06_cardManagement$card_main.coverage" NAME="card_main Coverage Results" MODIFIED="1572493195425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/06_cardManagement$card_main.coverage" NAME="card_main Coverage Results" MODIFIED="1572517958336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-652329752">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.44" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -36,24 +36,24 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="1262" />
+          <entry key="py" value="1451" />
           <entry key="txt" value="25" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="25" />
-          <entry key="Python" value="1262" />
+          <entry key="Python" value="1451" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/card_main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-8">
+            <state relative-caret-position="352">
               <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
             </state>
           </provider>
@@ -62,17 +62,16 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/card_tools.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="284">
+              <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
               <folding>
-                <element signature="e#22#138#0" />
-                <element signature="e#253#733#0" />
-                <marker date="1572493195237" expanded="false" signature="33:38" ph="..." />
-                <marker date="1572493195237" expanded="true" signature="248:249" ph="..." />
-                <marker date="1572493195237" expanded="true" signature="248:253" ph="..." />
-                <marker date="1572493195237" expanded="true" signature="767:768" ph="..." />
-                <marker date="1572493195237" expanded="true" signature="846:847" ph="..." />
-                <marker date="1572493195237" expanded="true" signature="846:851" ph="..." />
+                <element signature="e#253#749#0" />
+                <marker date="1572518092843" expanded="false" signature="33:38" ph="..." />
+                <marker date="1572518092843" expanded="true" signature="248:249" ph="..." />
+                <marker date="1572518092843" expanded="true" signature="248:253" ph="..." />
+                <marker date="1572518092843" expanded="true" signature="767:768" ph="..." />
+                <marker date="1572518092843" expanded="true" signature="1040:1041" ph="..." />
+                <marker date="1572518092843" expanded="true" signature="1040:1045" ph="..." />
               </folding>
             </state>
           </provider>
@@ -243,15 +242,9 @@
   <component name="ToolWindowManager">
     <frame x="538" y="16" width="836" height="706" extended-state="0" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.032216493" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Python Console" weight="0.32818532" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" weight="0.3289689" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.29668412" />
@@ -259,13 +252,19 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32818532" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="R Packages" />
-      <window_info anchor="right" id="SciView" />
-      <window_info anchor="right" id="R Graphics" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32818532" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="R Graphics" order="4" />
+      <window_info anchor="right" id="R Packages" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -281,24 +280,23 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/card_main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8">
+        <state relative-caret-position="352">
           <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/card_tools.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="284">
+          <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
           <folding>
-            <element signature="e#22#138#0" />
-            <element signature="e#253#733#0" />
-            <marker date="1572493195237" expanded="false" signature="33:38" ph="..." />
-            <marker date="1572493195237" expanded="true" signature="248:249" ph="..." />
-            <marker date="1572493195237" expanded="true" signature="248:253" ph="..." />
-            <marker date="1572493195237" expanded="true" signature="767:768" ph="..." />
-            <marker date="1572493195237" expanded="true" signature="846:847" ph="..." />
-            <marker date="1572493195237" expanded="true" signature="846:851" ph="..." />
+            <element signature="e#253#749#0" />
+            <marker date="1572518092843" expanded="false" signature="33:38" ph="..." />
+            <marker date="1572518092843" expanded="true" signature="248:249" ph="..." />
+            <marker date="1572518092843" expanded="true" signature="248:253" ph="..." />
+            <marker date="1572518092843" expanded="true" signature="767:768" ph="..." />
+            <marker date="1572518092843" expanded="true" signature="1040:1041" ph="..." />
+            <marker date="1572518092843" expanded="true" signature="1040:1045" ph="..." />
           </folding>
         </state>
       </provider>
