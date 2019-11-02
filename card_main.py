@@ -1,3 +1,5 @@
+#! /anaconda3/bin/python3
+
 import card_tools
 
 # 无效循环，用户决定什么时候退出
