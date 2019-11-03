@@ -37,8 +37,6 @@ def new_card():
     # 3. 将名片字典点击到列表中
     card_list.append(card_dict)
 
-    print(card_list)
-
     # 4. 提示用户添加成功
     print("添加 %s 的名片成功" % name_str)
 
